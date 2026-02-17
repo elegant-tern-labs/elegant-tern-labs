@@ -1,16 +1,22 @@
-## Hi there 👋
+# Elegant Tern Labs
 
-<!--
-**elegant-tern-labs/elegant-tern-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in San Diego, California, **Elegant Tern Labs** is an independent R&D studio. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What We’re Building
+
+---
+
+## 🚀 Current Projects
+
+---
+
+## 📫 Connect With Us
+
+* **X (Twitter):** [@eleganttern](https://x.com/eleganttern)
+* **Website:** [elegantternlabs.com](https://elegantternlabs.com)
+* **Email:** contact@elegantternlabs.com
+
+---
+*© 2026 Elegant Tern Labs. All rights reserved.*
